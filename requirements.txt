@@ -1,0 +1,11 @@
+numpy
+mathgenerator
+websockets
+requests
+opencv-python
+opencv-python-headless
+scipy
+xpinyin
+Pillow
+nest_asyncio
+psutil
